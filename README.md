@@ -6,7 +6,7 @@ that Github provides.
 
 Editing on the update-readme branch.
 
-Updated locally the readme file from the update-readme branch.
+Updated locally the readme file from the update-readme branch, then in remote.
 * Testing the asterik feature with notepad++
 
 Asterik adds a point to the view in Github.
