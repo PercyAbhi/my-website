@@ -6,6 +6,8 @@ that Github provides.
 
 Some random update for lerning fetch vs pull.
 
+Edit on example branch.
+
 * Testing the asterik feature with notepad++
 
 Asterik adds a point to the view in Github.
